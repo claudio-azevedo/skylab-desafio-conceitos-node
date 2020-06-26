@@ -1,4 +1,4 @@
 # skylab-desafio-conceitos-node
 Skylab - Conceitos nodejs/express 
 
-Aula conceitos Node e Express, rodas, HTTP Methods, API usando Express.
+Aula conceitos Node e Express, rotas, HTTP Methods, API usando Express.
